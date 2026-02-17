@@ -34,3 +34,7 @@ I believe in:
 This repository is both a record of where I’ve been and a foundation for where I’m going. 
 
 I am not sure how fair I will take this but I intend for it to go until landing a job in my degree path, maybe further. 
+
+-----------------------------------------------------------
+
+> Built and maintained by Ebony Rose Martin https://thatone.dev
