@@ -1,4 +1,4 @@
-<h1 align="center">Program_Structure</h1>
+<h1 align="center">Program Structure</h1>
 
 <p align="center">
 Understanding how the program is built so I can move through it strategically.
